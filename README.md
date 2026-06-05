@@ -1,6 +1,6 @@
 ### 👋 Olá, sou Ricardo Alexandre !!
 
-Atualmente trabalho como desenvolvedor no setor de tributação da SMARAPD Informatica.
+Atualmente trabalho como desenvolvedor na AVANADE
 
 <div align="center">
   <a href="https://github.com/RicardoAlexandreM">
