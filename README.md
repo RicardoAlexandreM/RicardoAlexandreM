@@ -38,6 +38,7 @@
 
 ### 📊 Minhas Estatísticas
 
-| 🏆 Status do GitHub | 💻 Top Linguagens |
-| :---: | :---: |
-| [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=RicardoAlexandreM&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/RicardoAlexandreM) | [![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoAlexandreM&layout=compact&langs_count=7&theme=tokyonight)](https://github.com/RicardoAlexandreM) |
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=RicardoAlexandreM&show_icons=true&theme=tokyonight&include_all_commits=true&v=2" alt="Estatísticas do GitHub" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoAlexandreM&layout=compact&langs_count=7&theme=tokyonight&v=2" alt="Linguagens Mais Usadas" />
+</div>
