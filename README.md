@@ -21,17 +21,23 @@
 * 🏆 Sou apaixonado por tecnologia e inovação, tendo conquistado o **1º lugar no Inova Senai Nacional (2018)** e o **2º lugar no Inova Senai Estadual (2017)**.
 * 📍 Resido em Sertãozinho, São Paulo, Brasil.
 
+---
+
 ### 🛠️ Tecnologias & Competências
-* **Backend & Frameworks:** Spring Boot, Spring MVC.
-* **Ferramentas de Versionamento:** GitHub.
+
+<div align="center">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/spring_mvc-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring MVC" />
+  <br>
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</div>
 
 ---
 
 ### 📊 Minhas Estatísticas
 
-<div align="center">
-  <a href="https://github.com/admstyx" target="_blank">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=admstyx&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=admstyx&layout=compact&langs_count=7&theme=onedark" alt="Linguagens Mais Usadas"/>
-  </a>
-</div>
+| 🏆 Status do GitHub | 💻 Top Linguagens |
+| :---: | :---: |
+| [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=RicardoAlexandreM&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/RicardoAlexandreM) | [![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoAlexandreM&layout=compact&langs_count=7&theme=tokyonight)](https://github.com/RicardoAlexandreM) |
